@@ -85,13 +85,13 @@ Para executar o projeto localmente, é necessário possuir:
 Caso o projeto esteja hospedado em um repositório Git:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/tcgCamara/PUC-MVP-Sprint4-Backend
 ```
 
 Entre no diretório do backend:
 
 ```bash
-cd PROXIER-BACKEND
+cd PUC-MVP-Sprint4-Backend
 ```
 
 ---
