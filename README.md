@@ -39,7 +39,7 @@ A API disponibiliza as seguintes funcionalidades:
 
 ## Arquitetura do projeto
 
-INSERIR IMAGEM DA ARQUITETURA AQUI
+<img width="1751" height="929" alt="PUCSprint4-Arquitetura png" src="https://github.com/user-attachments/assets/f3909e3d-82c1-42d5-b86e-4620c9913fb3" />
 
 ## Estrutura esperada do projeto
 
